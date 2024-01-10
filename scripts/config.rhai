@@ -1,8 +1,7 @@
-let titles_type = [];
 let titles_model = ["CLIP", "Vision Language", "Vision-Language"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Open-Vocabulary"];
-let titles =  titles_model + titles_method + titles_type;
-let authors_array = [];
+let titles_method = ["Pre-train", "Pretrain", "Finetune", "Fine-tuning", "Multimodal", "Multi-modal", "Prompt", "Open-Vocabulary"];
+let titles =  titles_model + titles_method;
+let authors_array = ["Kaiming"];
 
 let conferences = [
     // AI

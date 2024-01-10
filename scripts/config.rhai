@@ -9,7 +9,7 @@ let conferences = [
     // CV
     "ACM MM", "BMVC", "CVPR", "ECCV", "ICCV", "ICME", "WACV",
     // DM
-    "KDD", "SIGMOD", "WWW"
+    "KDD", "SIGMOD", "WWW",
     // IR
     "SIGIR",
     // ML
